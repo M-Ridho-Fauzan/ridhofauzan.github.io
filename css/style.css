@@ -1,0 +1,40 @@
+.wadah {
+  border-radius: 10px;
+  border: none;
+  background-color: #00000000;
+}
+.jambutron {
+  padding: 50px 0;
+}
+.mjmj {
+  top: -70px;
+  position: relative;
+}
+.kjkj img {
+  filter: blur(1px) grayscale(70%);
+}
+.mdmd {
+  border: solid 1px #00000000;
+}
+.knkn {
+  width: 70px;
+}
+.khkh {
+  margin-top: 90px;
+}
+.kkk img {
+  width: 100px;
+  margin: auto;
+}
+.plpl {
+  margin: 0 auto;
+}
+.bhs {
+  background-color: #ffd700;
+}
+.bmn img {
+  transition: all 500ms;
+}
+.bmn img:hover {
+  transform: scale(1.1);
+}
